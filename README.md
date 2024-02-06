@@ -8,6 +8,4 @@
 
 ### Contacto
 - 📧 Correo electrónico: nestordelgadofeliciano@gmail.com
-- 📷 Instagram: [Nestor-DF](https://www.instagram.com/Nestor-DF/)
-
-¡Gracias por visitar mi perfil!
+- 📷 Instagram: [Nestor-DF](https://www.instagram.com/nestor_rdf/)
