@@ -20,7 +20,7 @@ C++, Python, JavaScript, TypeScript, HTML, CSS
 
 #### **Other Skills**  
 - Knowledge in full-stack development.  
-- Experience in database administration and design.  
+- Knowledge in database administration and design.  
 - Proficient with team collaboration tools like Jira, Git, and GitHub.  
 - Knowledge in project management and agile methodologies.  
 - Skills in Machine Learning and data science (tools like Power BI).  
