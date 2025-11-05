@@ -1,34 +1,45 @@
 ## Hi, I'm Néstor! 👋
 
-### About Me  
-- 22 years old  
-- Licentiate in Computer Engineering
-- Serious and responsible in fulfilling important tasks  
+### About Me
+
+* 22 years old
+* Bachelor’s Degree in Computer Engineering
 
 ---
 
-### Skills (not an expert)
-#### **Programming Languages and Markup Languages**  
-C++, Python, JavaScript, TypeScript, HTML, CSS  
+### Skills (Not an expert)
 
-#### **Databases**  
-- Relational: PostgreSQL (and similar databases)  
-- Non-relational: MongoDB  
+*(Constantly learning and improving)*
 
-#### **Frameworks and Libraries**  
-- Frontend: React.js 
+#### **Programming & Markup Languages**
 
-#### **Other Skills**  
-- Knowledge in full-stack development.  
-- Knowledge in database administration and design.  
-- Proficient with team collaboration tools like Jira, Git, and GitHub.  
-- Knowledge in project management and agile methodologies.  
-- Skills in Machine Learning and data science.  
-- Knowledge in networking and IT infrastructure.  
-- Intermediate-advanced English level.  
+C++, Python, JavaScript, TypeScript, HTML, CSS
+
+#### **Databases**
+
+* **Relational:** MySQL, PostgreSQL (and similar systems)
+* **Non-relational:** MongoDB
+
+#### **Frameworks & Libraries**
+
+* **Frontend:** React.js
+
+#### **Other Skills**
+
+* Full-stack development knowledge
+* Docker & containerization
+* REST API design and development
+* Linux system usage and administration
+* Database design and management
+* Team collaboration tools: Jira, Git, GitHub
+* Project management and Agile methodologies
+* Machine Learning and Data Science fundamentals
+* Networking and IT infrastructure understanding
+* Intermediate–advanced English proficiency
 
 ---
 
-### Contact  
-- 📧 Email: nestordelgadofeliciano@gmail.com  
-- 📷 Instagram: [nestor_rdf](https://www.instagram.com/nestor_rdf/)
+### Contact
+
+* 📧 **Email:** [nestordelgadofeliciano@gmail.com](mailto:nestordelgadofeliciano@gmail.com)
+* 📷 **Instagram:** [@nestor_rdf](https://www.instagram.com/nestor_rdf/)
