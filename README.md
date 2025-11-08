@@ -36,17 +36,13 @@ Currently seeking opportunities to grow as a **full-stack developer** or **softw
 
 ## **Technical Skills**
 
-**Programming & Markup Languages:**
-C++, Python, JavaScript, TypeScript, HTML, CSS
+**Programming, Markup Languages and Frameworks:**   
+C++, Python, JavaScript, TypeScript, HTML, CSS, React.js
 
 **Databases:**
 
 * *Relational:* MySQL, PostgreSQL
 * *Non-relational:* MongoDB
-
-**Frameworks & Libraries:**
-
-* *Frontend:* React.js
 
 **Other Skills:**
 
@@ -64,7 +60,7 @@ C++, Python, JavaScript, TypeScript, HTML, CSS
 
 ## **Work Experience**
 
-**Frontend Software Developer (Internship)** — *Acid Tango*.  
+**Frontend Software Developer (Internship)** — *Acid Tango*.    
 *February 2025 – June 2025 (4 months)*.
 
 * Contributed to the development of a **cross-platform application** using **React** and **TypeScript**.  
