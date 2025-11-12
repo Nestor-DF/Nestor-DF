@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile.jpg" alt="Néstor Delgado Feliciano" width="150" style="border-radius:50%;" />
+  <img src="assets/profile.jpg" alt="Néstor Delgado Feliciano" width="200" style="border-radius:80%;" />
 </p>
 
 <h1 align="center">Néstor Delgado Feliciano</h1>
@@ -15,7 +15,6 @@
 
 Motivated and detail-oriented **Computer Engineering graduate** with a strong foundation in software development, databases, and IT systems.  
 Passionate about learning new technologies and improving technical and problem-solving skills.  
-Currently seeking opportunities to grow as a **full-stack developer** or **software engineer**.  
 
 ---
 
