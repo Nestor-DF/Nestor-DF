@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile.jpg" alt="Néstor Delgado Feliciano" width="200" style="border-radius:80%;" />
+  <img src="assets/profile.png" alt="Néstor Delgado Feliciano" width="200"/>
 </p>
 
 <h1 align="center">Néstor Delgado Feliciano</h1>
