@@ -1,8 +1,13 @@
-![Néstor Delgado Feliciano](assets/profile.jpg)
+<p align="center">
+  <img src="assests/profile.jpg" alt="Néstor Delgado Feliciano" width="150" style="border-radius:50%;" />
+</p>
 
-# **Néstor Delgado Feliciano**
-
-Tenerife, Spain · [nestordelgadofeliciano@gmail.com](mailto:nestordelgadofeliciano@gmail.com) · [@nestor_rdf](https://www.instagram.com/nestor_rdf/)
+<h1 align="center">Néstor Delgado Feliciano</h1>
+<p align="center">
+  📍 Tenerife, Spain · 
+  <a href="mailto:nestordelgadofeliciano@gmail.com">nestordelgadofeliciano@gmail.com</a> · 
+  <a href="https://www.instagram.com/nestor_rdf/">@nestor_rdf</a>
+</p>
 
 ---
 
