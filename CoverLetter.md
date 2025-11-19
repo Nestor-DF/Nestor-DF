@@ -1,10 +1,4 @@
-# **Cover Letter**  
-
-**Néstor Delgado Feliciano**
-[nestordelgadofeliciano@gmail.com](mailto:nestordelgadofeliciano@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/n%C3%A9stor-rub%C3%A9n-delgado-feliciano-a38a84342/)  
-
----
+# **Cover Letter - Néstor Delgado Feliciano**  
 
 Dear Hiring Team,
 
