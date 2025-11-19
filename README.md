@@ -4,9 +4,9 @@
 
 <h1 align="center">Néstor Delgado Feliciano</h1>
 <p align="center">
-  📍 Tenerife, Spain · 
-  <a href="mailto:nestordelgadofeliciano@gmail.com">nestordelgadofeliciano@gmail.com</a> · 
-  <a href="https://www.instagram.com/nestor_rdf/">@nestor_rdf</a> · 
+  📍 Tenerife, Spain  ·  
+  <a href="mailto:nestordelgadofeliciano@gmail.com">nestordelgadofeliciano@gmail.com</a>  ·  
+  <a href="https://www.instagram.com/nestor_rdf/">@nestor_rdf</a>  ·  
   <a href="https://www.linkedin.com/in/n%C3%A9stor-rub%C3%A9n-delgado-feliciano-a38a84342/">Linkedin</a>
 </p>
 
