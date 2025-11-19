@@ -12,13 +12,6 @@
 
 ---
 
-## **Profile Summary**
-
-Motivated and detail-oriented **Computer Engineering graduate** with a strong foundation in software development, databases, and IT systems.  
-Passionate about learning new technologies and improving technical and problem-solving skills.  
-
----
-
 ## **Education**
 
 **Bachelor’s Degree in Computer Engineering** — *University of La Laguna*.  
