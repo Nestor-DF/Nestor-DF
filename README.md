@@ -64,7 +64,6 @@ C++, Python, JavaScript, TypeScript, HTML, CSS, React.js
 
 * Contributed to the development of a **cross-platform application** using **React** and **TypeScript**.  
 * Collaborated with a multidisciplinary team following **Agile methodologies**.  
-* Gained hands-on experience in **modern frontend development workflows** and **Git-based version control**.
 
 ---
 
