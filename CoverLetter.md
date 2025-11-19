@@ -2,7 +2,7 @@
 
 Dear Hiring Team,
 
-My name is **Néstor Delgado Feliciano**, and I am a Computer Engineering graduate with a strong interest in software development and modern IT technologies. I am writing to express my interest in joining your company, where I hope to contribute to meaningful projects while continuing to grow as a software engineer.
+My name is Néstor Delgado Feliciano, and I am a Computer Engineering graduate with a strong interest in software development and modern IT technologies. I am writing to express my interest in joining your company, where I hope to contribute to meaningful projects while continuing to grow as a software engineer.
 
 Throughout my academic background and professional experience, I have developed solid skills in **software development**, **databases**, and **IT systems**, with hands-on experience using technologies such as **React**, **TypeScript**, **Python**, **C++**, and relational and non-relational databases. During my internship as a Frontend Developer, I had the opportunity to work in agile, multidisciplinary teams, which strengthened both my technical abilities and my collaborative mindset.
 
@@ -13,4 +13,4 @@ I am open to working **either remotely or on-site**, and I am fully committed to
 Thank you very much for considering my application. I would welcome the opportunity to further discuss how I can contribute to your team. Please feel free to contact me at your convenience.
 
 Kind regards,  
-**Néstor Delgado Feliciano**
+Néstor Delgado Feliciano
