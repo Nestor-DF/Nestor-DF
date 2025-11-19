@@ -1,14 +1,14 @@
-# **Cover Letter — Néstor Delgado Feliciano**
+# **Cover Letter — Néstor Delgado Feliciano**  
 
 **Néstor Delgado Feliciano**
-📍 Tenerife, Spain
-📩 [nestordelgadofeliciano@gmail.com](mailto:nestordelgadofeliciano@gmail.com)
-🔗 LinkedIn: [https://www.linkedin.com/in/n%C3%A9stor-rub%C3%A9n-delgado-feliciano-a38a84342/](https://www.linkedin.com/in/n%C3%A9stor-rub%C3%A9n-delgado-feliciano-a38a84342/)
-📷 Instagram: @nestor_rdf
+📍 Tenerife, Spain  
+📩 [nestordelgadofeliciano@gmail.com](mailto:nestordelgadofeliciano@gmail.com)  
+🔗 LinkedIn: [https://www.linkedin.com/in/n%C3%A9stor-rub%C3%A9n-delgado-feliciano-a38a84342/](https://www.linkedin.com/in/n%C3%A9stor-rub%C3%A9n-delgado-feliciano-a38a84342/)  
+📷 Instagram: @nestor_rdf  
 
 ---
 
-Dear Hiring Team,
+Dear Hiring Team,  
 
 My name is **Néstor Delgado Feliciano**, and I am a Computer Engineering graduate with a strong interest in software development and modern IT technologies. I am writing to express my interest in joining your company, where I hope to contribute to meaningful projects while continuing to grow as a software engineer.
 
@@ -20,5 +20,5 @@ I am open to working **either remotely or on-site**, and I am fully committed to
 
 Thank you very much for considering my application. I would welcome the opportunity to further discuss how I can contribute to your team. Please feel free to contact me at your convenience.
 
-Kind regards,
-**Néstor Delgado Feliciano**
+Kind regards,  
+**Néstor Delgado Feliciano**  
