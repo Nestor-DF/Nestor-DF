@@ -29,7 +29,6 @@
 ## **Certifications**
 
 **Cybersecurity in Operational Technology Environments**.  
-*Record No. F240001MC — Code: KauUG2vfxb*.  
 *Issued: July 30, 2025 — 120 hours (Online)*.
 
 ---
