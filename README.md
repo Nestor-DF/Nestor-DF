@@ -71,7 +71,7 @@ C++, Python, JavaScript, TypeScript, HTML, CSS, React.js
 ## **Languages**
 
 * **Spanish:** Native.
-* **English:** Intermediate–Advanced (B2–C1).
+* **English:** B2.
 
 ---
 
