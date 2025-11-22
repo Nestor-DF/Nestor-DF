@@ -41,7 +41,7 @@ C++, Python, JavaScript, TypeScript, HTML, CSS, React.js
 **Databases:**  
 MySQL, PostgreSQL, MongoDB
 
-**Other Skills:**  
+**Other Skills:**
 * Full-stack development knowledge
 * Docker & containerization
 * REST API design and development
