@@ -7,7 +7,7 @@
   📍 Tenerife, Spain  ·  
   <a href="mailto:nestordelgadofeliciano@gmail.com">nestordelgadofeliciano@gmail.com</a>  ·  
   <a href="https://www.instagram.com/nestor_rdf/">@nestor_rdf</a>  ·  
-  <a href="https://www.linkedin.com/in/n%C3%A9stor-rub%C3%A9n-delgado-feliciano-a38a84342/">Linkedin</a>
+  <a href="https://www.linkedin.com/in/n%C3%A9stor-rub%C3%A9n-delgado-feliciano-a38a84342/">LinkedIn</a>
 </p>
 
 ---
@@ -35,16 +35,13 @@
 
 ## **Technical Skills**
 
-**Programming, Markup Languages and Frameworks:**   
+**Programming, Markup Languages and Frameworks:**  
 C++, Python, JavaScript, TypeScript, HTML, CSS, React.js
 
-**Databases:**
+**Databases:**  
+MySQL, PostgreSQL, MongoDB
 
-* *Relational:* MySQL, PostgreSQL
-* *Non-relational:* MongoDB
-
-**Other Skills:**
-
+**Other Skills:**  
 * Full-stack development knowledge
 * Docker & containerization
 * REST API design and development
